@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, my name is Victor Amadi</h1>
 <h3 align="center">I love programming in Python</h3>
-<img src="https://lh3.googleusercontent.com/a/ALm5wu0JsnRvVul9iR5Vnnlt0uL5UhXwmtITi7QGsWJv=s288-p-rw-no" align="left" width=400 />
+<img src="https://lh3.googleusercontent.com/a/ALm5wu0JsnRvVul9iR5Vnnlt0uL5UhXwmtITi7QGsWJv=s288-p-rw-no" align="right" width=400 />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veekthorcodes&label=Profile%20views&color=ff9300&style=flat" alt="veekthorcodes" /> </p>
 
@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veekthorcodes&show_icons=true&theme=dark&title_color=425066&text_color=ff9300&bg_color=ffffff&locale=en&layout=compact" alt="veekthorcodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veekthorcodes&show_icons=true&theme=dark&title_color=425066&text_color=ff9300&bg_color=ffffff&locale=en" alt="veekthorcodes" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=veekthorcodes&show_icons=true&theme=dark&title_color=425066&text_color=ff9300&bg_color=ffffff&locale=en" alt="veekthorcodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veekthorcodes&theme=default" alt="veekthorcodes" /></p>
