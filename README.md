@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, my name is Victor Amadi</h1>
 <h3 align="center">I love programming in Python</h3>
-<img src="https://lh3.googleusercontent.com/a/ALm5wu0JsnRvVul9iR5Vnnlt0uL5UhXwmtITi7QGsWJv=s96-c-rg-br100" align="right" width=400 />
+<img src="https://media.istockphoto.com/vectors/biometric-person-identification-facial-recognition-concept-futuristic-vector-id1166057711?k=20&m=1166057711&s=612x612&w=0&h=6Qua5e_0wwjkSHgzfUXevCVGGPt0Knu1maOuOwW8py8=" align="right" width=400 />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veekthorcodes&label=Profile%20views&color=ff9300&style=flat" alt="veekthorcodes" /> </p>
 
