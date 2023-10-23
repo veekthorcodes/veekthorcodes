@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veekthorcodes&label=Profile%20views&color=ff9300&style=flat" alt="veekthorcodes" /> </p>
 
-- 🔭 I’m currently working on **Object Detection and MLOps**
+- 🔭 I’m currently working on **writing more Typescript/React code**
 
-- 🌱 I’m currently learning **Tensorflow, GCP, Docker/Kubernetes**
+- 🌱 I’m currently learning **Learning Swift UI/C++**
 
-- 👯 I’m looking to collaborate on **ML/AI projects**
+- 👯 I’m looking to collaborate on **FullStack Projects**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, JavaScript**
 
 - 📫 How to reach me **veekthorcodes@gmail.com**
 
-- ⚡ Fun fact **I love music**
+- ⚡ Fun fact **I love and play music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
