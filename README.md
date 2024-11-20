@@ -1,16 +1,16 @@
 <h1 align="center">Hello 👋, my name is Victor</h1>
-<h3 align="center">I have written code in Python, Javascript, Typescript, Java, Groovy, Swift, C++</h3>
+<h3 align="center">I have written code in Golang, Java, Python, Typescript, Groovy, Swift, C++</h3>
 <img src="https://media.istockphoto.com/vectors/biometric-person-identification-facial-recognition-concept-futuristic-vector-id1166057711?k=20&m=1166057711&s=612x612&w=0&h=6Qua5e_0wwjkSHgzfUXevCVGGPt0Knu1maOuOwW8py8=" align="right" width=400 />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veekthorcodes&label=Profile%20views&color=ff9300&style=flat" alt="veekthorcodes" /> </p>
 
-- 🔭 I’m currently working on **Java and Spring Boot projects**
+- 🔭 I’m currently working on **Go projects**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Microservices with Spring Boot**
+- 🌱 I’m currently learning **Microservices and writing better Go code**
 
 - 👯 I’m looking to collaborate on **FullStack Projects**
 
-- 💬 Ask me about **Data Structures, Web Development or Machine Learning**
+- 💬 Ask me about **Data Structures, Web Development**
 
 - 📫 How to reach me **veekthorcodes@gmail.com**
 
