@@ -49,10 +49,3 @@
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
   </a> 
 </p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=veekthorcodes&show_icons=true&theme=dark&title_color=1192e1&text_color=1192e1&bg_color=ffffff&locale=en&layout=compact" alt="veekthorcodes" /></p>
-
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=veekthorcodes&show_icons=true&theme=dark&title_color=1192e1&text_color=1192e1&bg_color=ffffff&locale=en" alt="veekthorcodes" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=veekthorcodes&theme=default" alt="veekthorcodes" />
-</p>
